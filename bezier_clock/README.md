@@ -1,11 +1,8 @@
-# Digital Clock
+# Bezier Clock
 
-This app is an example of a digital clock.
+Clock which animates numbers using bezier curves
 It has a light theme and a dark theme.
-See the [Analog Clock](../analog_clock) if you'd like an example that displays the weather and location.
 
-<img src='digital.gif' width='350'>
+<img src='clock-dark.png' width='350'>
 
-<img src='digital_dark.png' width='350'>
-
-<img src='digital_light.png' width='350'>
+<img src='clock-light.png' width='350'>
